@@ -7,8 +7,13 @@
         <entry key="app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.2015" />
         <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2015" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2015" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_screen1.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_screen2.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_screen3.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_splash2.xml" value="0.19375" />
       </map>
